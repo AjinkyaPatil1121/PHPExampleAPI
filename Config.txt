@@ -1,0 +1,10 @@
+- Configure/create htaccess in windows with .htaccess. to help with routing
+- Change xampps config.inc.php if you lock yourself out of phpMyAdmin by passwork change. $cfg['Servers'][$i]['password'] = '';
+- Ensure your connection method in PHP for DB (PDO, mysqli) for xampp is set up in php.ini
+- httpd.conf has AllowOverride for .htaccess set to "All"
+- Other configuration/stuff as required
+- Massive help from 
+http://php999.blogspot.in/2015/05/td-p-margin-bottom-0cm-h1-margin-bottom.html
+Stack Overflow
+http://coreymaynard.com/blog/creating-a-restful-api-with-php/
+Search Engines
